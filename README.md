@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simit Jahin</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
-<img align="right" alt="Designing" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="Designing" width="400" src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://cdn.dribbble.com/users/966681/screenshots/2896620/media/447bad358ebde5b5db3b7483716ea6b1.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahin38&label=Profile%20views&color=0e75b6&style=flat" alt="jahin38" /> </p>
 
