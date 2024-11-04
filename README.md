@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **meghsimit642@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oOleBRHUdWARjVADm6XUm_FTJQZ1CDh8/view?usp=sharing](https://drive.google.com/file/d/1oOleBRHUdWARjVADm6XUm_FTJQZ1CDh8/view?usp=sharing)
-
 - ⚡ Fun fact **sometimes you just need a good reboot in both life & design**
 
 <h3 align="left">Connect with me:</h3>
