@@ -4,17 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahin38&label=Profile%20views&color=0e75b6&style=flat" alt="jahin38" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahin38" alt="jahin38" /></a> </p>
-
-- 🌱 I’m currently learning **Sketch & Adobe XD**
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/simitmegh](https://www.behance.net/simitmegh)
-
-- 💬 Ask me about **Web design, Mobile app design, Motion Graphics**
-
 - 📫 How to reach me **meghsimit642@gmail.com**
-
-- ⚡ Fun fact **sometimes you just need a good reboot in both life & design**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simit-jahin-megh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simit-jahin-megh" height="30" width="40" /></a>
