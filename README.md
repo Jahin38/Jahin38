@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simit Jahin</h1>
-<h3 align="center">A passionate UI/UX Designer</h3>
+<h3 align="center">Front-end Developer</h3>
 <img align="right" alt="Designing" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahin38&label=Profile%20views&color=0e75b6&style=flat" alt="jahin38" /> </p>
 
