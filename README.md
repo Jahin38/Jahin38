@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Simit Jahin</h1>
-<h3 align="center">Front-end Developer</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Simit+Jahin;Front-end+Developer;" alt="Typing SVG" />
+  </a>
+</h1>
+
 <img align="right" alt="Designing" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> 
